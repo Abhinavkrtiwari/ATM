@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Avinash Dhanuka](https://github.com/Avinash-706)
+Made with ❤️ by Abhinav Kumar Tiwari
